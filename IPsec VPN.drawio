@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2022-11-02T06:03:17.226Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.114 Whale/3.17.145.12 Safari/537.36" version="20.5.1" etag="Sbz6KSlvvuBfabtB2xx6" type="github"><diagram id="OKESKoIKqHv7q_umJdGV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-02T09:02:47.872Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.5249.114 Whale/3.17.145.12 Safari/537.36" etag="3E8iY2lFJRU-kvC7H4tC" version="20.5.1" type="github">
+  <diagram id="OKESKoIKqHv7q_umJdGV" name="페이지-1">
+    <mxGraphModel dx="949" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.88;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-1" target="GejfgR82Iyn6SOOdq4yb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.875;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-1" target="GejfgR82Iyn6SOOdq4yb-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.8;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-1" target="GejfgR82Iyn6SOOdq4yb-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-1" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-26" target="GejfgR82Iyn6SOOdq4yb-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-26" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;본사&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;10.10.10.10&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="199" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-27" target="GejfgR82Iyn6SOOdq4yb-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-27" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;본사&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;10.10.10.20&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-28" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;지사1&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;10.20.10.X&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="800" y="160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-29" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;지사2&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;172.16.0.X&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="800" y="260.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-30" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;지사3&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;192.168.0.X&lt;/span&gt;" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="800" y="360" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.21;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-33" target="GejfgR82Iyn6SOOdq4yb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.16;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-33" target="GejfgR82Iyn6SOOdq4yb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.79;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-33" target="GejfgR82Iyn6SOOdq4yb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-33" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;본사-VPN&lt;/span&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;points=[[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.21,0,0,0],[1,0.51,0,0,0],[1,0.79,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="400" y="260.5" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-35" target="GejfgR82Iyn6SOOdq4yb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-35" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;지사3-VPN&lt;/span&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-36" target="GejfgR82Iyn6SOOdq4yb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;지사1-VPN&lt;/span&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="720" y="160" width="39" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=10;fillColor=#fff2cc;strokeColor=#d6b656;" edge="1" parent="1" source="GejfgR82Iyn6SOOdq4yb-37" target="GejfgR82Iyn6SOOdq4yb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GejfgR82Iyn6SOOdq4yb-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 10px; background-color: rgb(255, 255, 255);&quot;&gt;지사2-VPN&lt;/span&gt;" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7.misc.vpn;fillColor=#007AFF;strokeColor=none;buttonText=;strokeColor2=#222222;fontColor=#222222;fontSize=8;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;points=[[0,0.5,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="1">
+          <mxGeometry x="720" y="260.5" width="39" height="39" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
