@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:35:07.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="VSTKn9arLg2DAkfofhxN" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T06:03:17.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="ToGIBBtah-hd2dEZZbDw" version="22.0.8" type="github">
   <diagram name="페이지-1" id="GZHKBxDs756p7_WZ04ZU">
     <mxGraphModel dx="3292" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="rwRi8KRpfO8gPfVqMIio-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;strokeWidth=2;" edge="1" parent="1" source="rwRi8KRpfO8gPfVqMIio-4" target="rwRi8KRpfO8gPfVqMIio-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rwRi8KRpfO8gPfVqMIio-4" value="사용자" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
+        <mxCell id="rwRi8KRpfO8gPfVqMIio-4" value="서비스 이용자" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
           <mxGeometry x="41" y="240" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rwRi8KRpfO8gPfVqMIio-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#00bfff;endArrow=none;endFill=0;" edge="1" parent="1" source="rwRi8KRpfO8gPfVqMIio-5" target="rwRi8KRpfO8gPfVqMIio-8">
