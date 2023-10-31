@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T05:31:53.365Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="SC0lzns6b6F6YoELmEqN" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T05:35:07.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="VSTKn9arLg2DAkfofhxN" version="22.0.8" type="github">
   <diagram name="페이지-1" id="GZHKBxDs756p7_WZ04ZU">
-    <mxGraphModel dx="3678" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3292" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -626,6 +626,14 @@
             <Array as="points">
               <mxPoint x="1606" y="639.98" />
               <mxPoint x="1606" y="639.98" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rwRi8KRpfO8gPfVqMIio-242" value="DR 서비스&lt;br style=&quot;font-size: 26px;&quot;&gt;(VPN)" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=15;endArrow=block;endFill=1;fillColor=#0050ef;strokeColor=#9da6d7;labelBorderColor=none;labelBackgroundColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;fontSize=26;fontStyle=1" edge="1" parent="1" source="rwRi8KRpfO8gPfVqMIio-240" target="rwRi8KRpfO8gPfVqMIio-238">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="1120" />
+              <mxPoint x="1476" y="1120" />
             </Array>
           </mxGeometry>
         </mxCell>
