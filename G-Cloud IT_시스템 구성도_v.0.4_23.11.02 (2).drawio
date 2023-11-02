@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T06:45:15.394Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="RHfzsNTQk5UrLsqvBF64" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T09:43:49.222Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="5PQxvCWITxDv2tV1IQNn" version="22.0.8" type="github">
   <diagram name="페이지-1" id="yvfM14-lTbsYd5hGwklW">
     <mxGraphModel dx="1857" dy="-2320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -380,10 +380,10 @@
           <mxGeometry x="743.6" y="3570" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wxVyQ4bQVQ6LdnxC2vAn-4" value="Admin Portal" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal;container=0;" parent="1" vertex="1">
-          <mxGeometry x="782.25" y="3610" width="40" height="40" as="geometry" />
+          <mxGeometry x="780" y="3610" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wxVyQ4bQVQ6LdnxC2vAn-5" value="User Portal" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal;container=0;" parent="1" vertex="1">
-          <mxGeometry x="862.2499999999999" y="3610" width="40" height="40" as="geometry" />
+        <mxCell id="wxVyQ4bQVQ6LdnxC2vAn-5" value="DR User Portal" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.company_portal;container=0;" parent="1" vertex="1">
+          <mxGeometry x="869.9999999999999" y="3610" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wxVyQ4bQVQ6LdnxC2vAn-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000075;strokeColor=none;width=18.77777777777778;endSize=9.203333333333333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="wxVyQ4bQVQ6LdnxC2vAn-2" target="gUHsCTnRIOJ-MTFSnGW0-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
