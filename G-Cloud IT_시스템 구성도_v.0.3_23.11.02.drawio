@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T05:41:57.378Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="HS-b0nL9UI6s0C2aHXAc" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T05:44:19.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Whale/3.23.214.10 Safari/537.36" etag="lTsqqLkiKwhVE_UxTTIg" version="22.0.8" type="github">
   <diagram name="페이지-1" id="kwoGzYAiI16UahFyLS35">
     <mxGraphModel dx="3026" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1401,7 +1401,7 @@
         <mxCell id="ze0cQsZJcsf5HPkJVzyD-45" value="Network" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000075;fontStyle=1;fontSize=10;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="ze0cQsZJcsf5HPkJVzyD-41">
           <mxGeometry x="232.66451473269709" y="9.574468085106384" width="92.74604744037205" height="28.72340425531915" as="geometry" />
         </mxCell>
-        <mxCell id="ze0cQsZJcsf5HPkJVzyD-46" value="DR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000075;fontStyle=1;fontSize=10;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="ze0cQsZJcsf5HPkJVzyD-41">
+        <mxCell id="ze0cQsZJcsf5HPkJVzyD-46" value="Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000075;fontStyle=1;fontSize=10;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="ze0cQsZJcsf5HPkJVzyD-41">
           <mxGeometry x="342.4587967692162" y="9.574468085106384" width="92.74567719562262" height="28.72340425531915" as="geometry" />
         </mxCell>
         <mxCell id="ze0cQsZJcsf5HPkJVzyD-47" value="Workload provisioning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000075;fontStyle=1;fontSize=10;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="ze0cQsZJcsf5HPkJVzyD-41">
